@@ -18,8 +18,9 @@ __pycache__/
 .env
 .env.*
 
-# Ignore Docker-related files (except Dockerfile and docker-compose-prod.yml)
+# Ignore Docker-related files (except Dockerfile and docker-compose.yml)
 docker-compose-dev.yml
+docker-compose-prod.yml
 
 # Ignore Git files
 .git/
